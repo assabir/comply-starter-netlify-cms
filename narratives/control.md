@@ -3,7 +3,7 @@ name: Control Environment Narrative
 acronym: CEN
 satisfies:
   TSC 2017:
-    - CC2.1
+    - CC2.20
     - CC2.2
     - CC2.3
     - CC4.1
